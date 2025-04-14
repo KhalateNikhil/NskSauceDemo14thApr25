@@ -45,6 +45,7 @@ public class YourInfoPage extends BaseClass {
 		UtilsClass.sendKeys(lname, lastname);
 		UtilsClass.sendKeys(pcode, pincode);
 		logclick.click();
+		System.out.println("YourInfoPage test case added by TesterB");
 		
 	}
 	

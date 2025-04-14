@@ -48,6 +48,7 @@ public class HomePage extends BaseClass{
 	{
 		addbag.click();
 		addcart.click();
+		System.out.println("Home Page Test Case is added by TesterA");
 	}
 	
 	

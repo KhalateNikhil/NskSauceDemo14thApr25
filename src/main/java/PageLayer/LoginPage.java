@@ -38,6 +38,7 @@ public class LoginPage extends BaseClass{
 		UtilsClass.sendKeys(uname, username);
 		UtilsClass.sendKeys(pass, password);
 		logbutton.click();
+		System.out.println("LoginPage TC added by TesterB");
 		
 		
 	}

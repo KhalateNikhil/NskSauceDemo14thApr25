@@ -36,6 +36,7 @@ public class YourCartPage extends BaseClass{
 	public void clickOnCheckout()
 	{
 		checkout.click();
+		System.out.println("YourCartPage Test Case added by TesterA");
 	}
 	
 	
